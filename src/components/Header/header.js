@@ -1,5 +1,15 @@
 import React from "react";
-import { Dp, MailIco, TelegramIco, WhatsappIco } from "../../utils/allImg";
+import {
+  Dp,
+  FacebookIco,
+  LinkdinIco,
+  LinkdinWhiteIco,
+  MailIco,
+  SkypeIco,
+  SkypeWhiteIco,
+  TelegramIco,
+  WhatsappIco,
+} from "../../utils/allImg";
 import "./header.css";
 import Typed from "react-typed";
 const Header = () => {
@@ -8,6 +18,35 @@ const Header = () => {
       className="main-header
   "
     >
+      <div className="float-links">
+        <ul className="float-ul">
+          <li>
+            <a href="">
+              <img src={TelegramIco} alt="" />
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <img src={WhatsappIco} alt="" />
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <img src={FacebookIco} alt="" />
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <img src={LinkdinWhiteIco} alt="" />
+            </a>
+          </li>
+          <li>
+            <a href="">
+              <img src={SkypeWhiteIco} alt="" />
+            </a>
+          </li>
+        </ul>
+      </div>
       <div className="header-flex">
         <div className="left-block">
           <h4 className="heading-intro">

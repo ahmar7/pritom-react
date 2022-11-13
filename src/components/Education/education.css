@@ -1,5 +1,5 @@
 .main-education {
-    margin-top: 9rem;
+    margin-top: 6rem;
 }
 
 .section-heading {
@@ -54,4 +54,35 @@
     width: max-content;
     padding: .5rem 0.75rem;
     border: 1px solid rgb(14 165 233);
+}
+
+@media (max-width:1200px) {
+    .indiv-card {
+        margin: 0 10px;
+        padding: 1.5rem 0.75rem;
+        width: 350px;
+
+    }
+}
+
+@media (max-width:768px) {
+    .education-block {
+        margin-top: 50px;
+        flex-direction: column;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+    }
+
+    .indiv-card {
+        margin: 24px 10px;
+        width: 330px;
+    }
+}
+
+@media (max-width:480px) {
+    .indiv-card {
+        margin: 24px 10px;
+        width: 280px;
+    }
 }

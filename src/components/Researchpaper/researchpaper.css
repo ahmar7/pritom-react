@@ -1,5 +1,5 @@
 .research-secction {
-    margin-top: 0rem;
+    margin-top: 6rem;
 }
 
 .research-block {
@@ -88,4 +88,33 @@
 
 .rotate-it {
     transform: rotate(180deg);
+}
+
+@media (max-width:1230px) {
+    .inner-research {
+        border: 1px solid #9ca3af80;
+        border-radius: 0.75rem;
+        position: relative;
+        max-width: 95%;
+    }
+}
+
+@media (max-width:768px) {
+    .inner-research {
+        max-width: 88%;
+        flex-direction: column;
+    }
+
+    .right {
+        margin-top: 20px;
+    }
+}
+
+@media (max-width:480px) {
+    .inner-research {
+        max-width: 80%;
+        flex-direction: column;
+    }
+
+
 }

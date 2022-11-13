@@ -1,6 +1,7 @@
 .project-section {
 
-    margin-top: 9rem;
+    margin-top: 6rem;
+
 }
 
 .science-block {
@@ -55,5 +56,26 @@
 
     color: rgb(14 165 233);
 
-    ;
+}
+
+@media (max-width:1230px) {
+    .inner-science {
+        padding: 1rem;
+        text-align: left;
+        border: 1px solid #9ca3af80;
+        width: 42%;
+        min-height: 145px;
+    }
+}
+
+@media (max-width:800px) {
+    .inner-science {
+        padding: 1rem;
+        text-align: left;
+        border: 1px solid #9ca3af80;
+        width: 88%;
+        margin: 0 auto;
+        margin-top: 20px !important;
+        min-height: auto;
+    }
 }

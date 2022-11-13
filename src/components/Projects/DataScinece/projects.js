@@ -105,10 +105,6 @@ const Datascience = () => {
           </div>
         </div>
       </div>
-      <br />
-      <br />
-      <br />
-      <br />a
     </div>
   );
 };

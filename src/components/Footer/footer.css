@@ -1,5 +1,6 @@
 .footer-section {
-    margin-top: 9rem;
+    margin-top: 6rem;
+    ;
 
     background-color: rgb(1 0 12);
 }
@@ -66,4 +67,26 @@
 .copyright-area p {
     margin-top: 20px;
     color: rgb(156 163 175);
+}
+
+@media (max-width:768px) {
+    .upper-detail {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+    .footer-detail {
+        margin: 25px 0;
+    }
+
+    .no-mb {
+        display: none;
+    }
+}
+
+@media (max-width:480px) {
+    .socials a {
+        margin: 0 10px;
+    }
 }

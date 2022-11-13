@@ -20,7 +20,13 @@ import TimerArrow from "../assets/img/timer.svg";
 import LocationArrow from "../assets/img/location.svg";
 import GitIco from "../assets/img/git.svg";
 import LinkdinIco from "../assets/img/linkdin.svg";
+import LinkdinWhiteIco from "../assets/img/linkdinwhite.svg";
 import SkypeIco from "../assets/img/skype.svg";
+import SkypeWhiteIco from "../assets/img/skypewhite.svg";
+import FacebookIco from "../assets/img/facebook.svg";
+import Video1 from "../assets/video/3.26422fda.mp4";
+import Video2 from "../assets/video/4.a06c1e18.mp4";
+import Video3 from "../assets/video/5.9fa994dc.mp4";
 
 export {
   Dp,
@@ -45,5 +51,11 @@ export {
   LocationArrow,
   GitIco,
   LinkdinIco,
+  LinkdinWhiteIco,
   SkypeIco,
+  SkypeWhiteIco,
+  FacebookIco,
+  Video1,
+  Video2,
+  Video3,
 };

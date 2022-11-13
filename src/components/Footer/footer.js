@@ -29,7 +29,8 @@ const Footer = () => {
             <div className="ph">
               <h4>WORK HOURS</h4>
               <p>
-                Monday - Friday : 09am - <br /> 18pm Saturday : 09am - 1pm
+                Monday - Friday : 09am - <br className="no-mb" /> 18pm Saturday
+                : 09am - 1pm
               </p>
             </div>
           </div>
@@ -41,7 +42,7 @@ const Footer = () => {
               <h4>ADDRESS</h4>
               <p>
                 Alupotty, Rajshahi,
-                <br /> Bangladesh
+                <br className="no-mb" /> Bangladesh
               </p>
             </div>
           </div>
