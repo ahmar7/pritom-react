@@ -1,0 +1,57 @@
+.project-section {
+
+    margin-top: 9rem;
+}
+
+.science-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 50px;
+}
+
+.inner-science {
+    padding: 1rem;
+    text-align: left;
+    border: 1px solid #9ca3af80;
+    width: 330px;
+    margin-top: 0 !important;
+    margin: 15px;
+    min-height: 180px;
+    border-radius: 0.5rem;
+    transition: all 0.2s ease;
+}
+
+.inner-science:hover {
+    border-color: rgb(14 165 233);
+    transition: all 0.2s ease;
+    ;
+}
+
+.inner-science h3 {
+    color: white;
+    text-align: left;
+    font-size: 1.25rem;
+}
+
+.inner-science p {
+    text-align: left;
+    color: rgb(156 163 175);
+    font-weight: 600;
+    margin-top: 5px;
+}
+
+.pro-link {
+    margin-top: 5px !important;
+
+}
+
+.inner-science a {
+    font-weight: 600;
+
+    color: rgb(14 165 233);
+
+    ;
+}
