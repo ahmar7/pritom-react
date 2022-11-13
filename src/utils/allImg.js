@@ -14,6 +14,13 @@ import HardhatLogo from "../assets/img/hardhat.0ca36d6f.png";
 import TruffleLogo from "../assets/img/truffle.413b29b5.png";
 import FlaskLogo from "../assets/img/Flask.74a77738.png";
 import NodeLogo from "../assets/img/node.png";
+import Arrow from "../assets/img/arrow.svg";
+import CallArrow from "../assets/img/call.svg";
+import TimerArrow from "../assets/img/timer.svg";
+import LocationArrow from "../assets/img/location.svg";
+import GitIco from "../assets/img/git.svg";
+import LinkdinIco from "../assets/img/linkdin.svg";
+import SkypeIco from "../assets/img/skype.svg";
 
 export {
   Dp,
@@ -32,4 +39,11 @@ export {
   TruffleLogo,
   FlaskLogo,
   NodeLogo,
+  Arrow,
+  CallArrow,
+  TimerArrow,
+  LocationArrow,
+  GitIco,
+  LinkdinIco,
+  SkypeIco,
 };

@@ -1,9 +1,11 @@
 import React from "react";
 import Education from "./Education/education";
+import Footer from "./Footer/footer";
 import Header from "./Header/header";
 import Navbar from "./Navbar/navbar";
 import Project from "./Projects/BlockChain/project";
 import Datascience from "./Projects/DataScinece/projects";
+import Researchpaper from "./Researchpaper/researchpaper";
 import Skills from "./Skills/skills";
 
 const Index = () => {
@@ -15,6 +17,8 @@ const Index = () => {
       <Skills />
       {/* <Project /> */}
       <Datascience />
+      <Researchpaper />
+      <Footer />
     </div>
   );
 };
