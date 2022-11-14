@@ -45,7 +45,7 @@ const Project = () => {
     ],
   };
   return (
-    <div className="project-section caraousel-sec">
+    <div className="project-section caraousel-sec" id="projects">
       <h2 className="section-heading bottom-mar ">Blockchain Projects</h2>
       <Slider {...settings}>
         <div>
@@ -56,7 +56,9 @@ const Project = () => {
               Dorac NFT Marketplace NFT Marketplace where you can Buy, Sell and
               Collect exotic NFT collection.
             </p>
-            <button>LIVE PREVIEW</button>
+            <a target="_blank" href="https://rakib-token.netlify.app/">
+              <button>LIVE PREVIEW</button>
+            </a>
           </div>
         </div>
         <div>
@@ -67,7 +69,9 @@ const Project = () => {
               Dorac NFT Marketplace NFT Marketplace where you can Buy, Sell and
               Collect exotic NFT collection.
             </p>
-            <button>LIVE PREVIEW</button>
+            <a target="_blank" href="https://rakib-token.netlify.app/">
+              <button>LIVE PREVIEW</button>
+            </a>
           </div>
         </div>
         <div>
@@ -78,7 +82,9 @@ const Project = () => {
               Dorac NFT Marketplace NFT Marketplace where you can Buy, Sell and
               Collect exotic NFT collection.
             </p>
-            <button>LIVE PREVIEW</button>
+            <a target="_blank" href="https://rakib-token.netlify.app/">
+              <button>LIVE PREVIEW</button>
+            </a>
           </div>
         </div>
         <div>
@@ -89,7 +95,9 @@ const Project = () => {
               Dorac NFT Marketplace NFT Marketplace where you can Buy, Sell and
               Collect exotic NFT collection.
             </p>
-            <button>LIVE PREVIEW</button>
+            <a target="_blank" href="https://rakib-token.netlify.app/">
+              <button>LIVE PREVIEW</button>
+            </a>
           </div>
         </div>
         <div>
@@ -100,7 +108,9 @@ const Project = () => {
               Dorac NFT Marketplace NFT Marketplace where you can Buy, Sell and
               Collect exotic NFT collection.
             </p>
-            <button>LIVE PREVIEW</button>
+            <a target="_blank" href="https://rakib-token.netlify.app/">
+              <button>LIVE PREVIEW</button>
+            </a>
           </div>
         </div>
         <div>
@@ -111,7 +121,9 @@ const Project = () => {
               Dorac NFT Marketplace NFT Marketplace where you can Buy, Sell and
               Collect exotic NFT collection.
             </p>
-            <button>LIVE PREVIEW</button>
+            <a target="_blank" href="https://rakib-token.netlify.app/">
+              <button>LIVE PREVIEW</button>
+            </a>
           </div>
         </div>
       </Slider>

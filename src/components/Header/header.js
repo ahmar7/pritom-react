@@ -21,27 +21,30 @@ const Header = () => {
       <div className="float-links">
         <ul className="float-ul">
           <li>
-            <a href="">
+            <a target="_blank" href="https://t.me/iampritom">
               <img src={TelegramIco} alt="" />
             </a>
           </li>
           <li>
-            <a href="">
+            <a target="_blank" href="https://wa.me/+8801750352163">
               <img src={WhatsappIco} alt="" />
             </a>
           </li>
           <li>
-            <a href="">
+            <a
+              target="_blank"
+              href="https://www.facebook.com/pritom.sarker.bishal"
+            >
               <img src={FacebookIco} alt="" />
             </a>
           </li>
           <li>
-            <a href="">
+            <a target="_blank" href="https://www.linkedin.com/in/me-pritom/">
               <img src={LinkdinWhiteIco} alt="" />
             </a>
           </li>
           <li>
-            <a href="">
+            <a target="_blank" href="skype:+8801750352163">
               <img src={SkypeWhiteIco} alt="" />
             </a>
           </li>
@@ -74,16 +77,26 @@ const Header = () => {
               </p>
             </div>
             <div className="cv-btn">
-              <button>DOWNLOAD MY CV</button>
+              <a target="_blank" href="https://impritom.com/resume.pdf">
+                {" "}
+                <button>DOWNLOAD MY CV</button>
+              </a>
             </div>
             <div className="social-links">
-              <a className="no-mar" href="">
+              <a
+                target="_blank"
+                className="no-mar"
+                href="https://wa.me/+8801750352163"
+              >
                 <img src={WhatsappIco} alt="" />
               </a>
-              <a href="">
+              <a
+                target="_blank"
+                href="https://share.streak.com/BlBBkOevxGmgGuobOXUGxI"
+              >
                 <img className="spec" src={MailIco} alt="" />
               </a>
-              <a href="">
+              <a target="_blank" href="https://t.me/iampritom">
                 <img src={TelegramIco} alt="" />
               </a>
             </div>

@@ -13,7 +13,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -24,7 +29,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -35,7 +45,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -46,7 +61,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -57,7 +77,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -68,7 +93,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -79,7 +109,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -90,7 +125,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/Generate-NFT-using-Python"
+            >
+              View Project
+            </a>
           </div>
         </div>
         <div className="inner-science">
@@ -101,7 +141,12 @@ const Datascience = () => {
             revolutionize business and its processes....
           </p>
           <div className="pro-link">
-            <a href="">View Project</a>
+            <a
+              target="_blank"
+              href="https://github.com/Pritom-sarker/marriage-registration-system-using-blockchain-smart-contract"
+            >
+              View Project
+            </a>
           </div>
         </div>
       </div>

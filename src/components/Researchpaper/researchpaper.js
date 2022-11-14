@@ -12,7 +12,7 @@ const Researchpaper = () => {
     }
   };
   return (
-    <div className="research-secction">
+    <div className="research-secction" id="research">
       <h2 className="section-heading">Research Paper</h2>
       <div className="research-block">
         <div className="inner-research">
@@ -28,7 +28,12 @@ const Researchpaper = () => {
             </p>
           </div>
           <div className="right">
-            <button>View Publication</button>
+            <a
+              href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+              target="_blank"
+            >
+              <button>View Publication</button>
+            </a>
           </div>
         </div>
         <div className="inner-research">
@@ -44,7 +49,12 @@ const Researchpaper = () => {
             </p>
           </div>
           <div className="right">
-            <button>View Publication</button>
+            <a
+              href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+              target="_blank"
+            >
+              <button>View Publication</button>
+            </a>
           </div>
         </div>
         <div className="inner-research">
@@ -60,7 +70,12 @@ const Researchpaper = () => {
             </p>
           </div>
           <div className="right">
-            <button>View Publication</button>
+            <a
+              href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+              target="_blank"
+            >
+              <button>View Publication</button>
+            </a>
           </div>
         </div>
         <div className={show ? "hide-it" : ""}>
@@ -78,7 +93,12 @@ const Researchpaper = () => {
               </p>
             </div>
             <div className="right">
-              <button>View Publication</button>
+              <a
+                href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+                target="_blank"
+              >
+                <button>View Publication</button>
+              </a>
             </div>
           </div>
           <div className="inner-research">
@@ -95,7 +115,12 @@ const Researchpaper = () => {
               </p>
             </div>
             <div className="right">
-              <button>View Publication</button>
+              <a
+                href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+                target="_blank"
+              >
+                <button>View Publication</button>
+              </a>
             </div>
           </div>
           <div className="inner-research">
@@ -112,7 +137,12 @@ const Researchpaper = () => {
               </p>
             </div>
             <div className="right">
-              <button>View Publication</button>
+              <a
+                href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+                target="_blank"
+              >
+                <button>View Publication</button>
+              </a>
             </div>
           </div>
           <div className="inner-research">
@@ -129,7 +159,12 @@ const Researchpaper = () => {
               </p>
             </div>
             <div className="right">
-              <button>View Publication</button>
+              <a
+                href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+                target="_blank"
+              >
+                <button>View Publication</button>
+              </a>
             </div>
           </div>
           <div className="inner-research">
@@ -146,11 +181,21 @@ const Researchpaper = () => {
               </p>
             </div>
             <div className="right">
-              <button>View Publication</button>
+              <a
+                href="https://www.researchgate.net/publication/342130441_Categorization_of_Protean_Writers_by_Exploitation_of_Raspberry_Pi"
+                target="_blank"
+              >
+                <button>View Publication</button>
+              </a>
             </div>
           </div>
           <div className="cv-btn rs-bt">
-            <button>SHOW ALL RESEARCH PAPER</button>
+            <a
+              target="_blank"
+              href="https://www.researchgate.net/profile/Pritom-Sarker"
+            >
+              <button>SHOW ALL RESEARCH PAPER</button>
+            </a>
           </div>
         </div>
         <div className="arrow">

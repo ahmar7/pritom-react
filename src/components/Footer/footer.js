@@ -49,14 +49,14 @@ const Footer = () => {
         </div>
         <div className="footer-links">
           <div className="socials">
-            <a href="">
+            <a target="_blank" href="https://github.com/Pritom-sarker">
               <img src={GitIco} alt="" /> <span className="are">GitHub</span>
             </a>
-            <a href="">
+            <a target="_blank" href="https://www.linkedin.com/in/me-pritom/">
               <img src={LinkdinIco} alt="" />{" "}
               <span className="are">Linkedin</span>
             </a>
-            <a href="">
+            <a target="_blank" href="skype:+8801750352163">
               <img src={SkypeIco} alt="" /> <span className="are">Skype</span>
             </a>
           </div>
